@@ -6,7 +6,7 @@ Passionate about creating practical solutions that blend technology, security, a
 ---
 
 ## 🧠 Core Skills  
-- **Languages**: Python, C#, JavaScript (React, Node.js), SQL  
+- **Languages**: Python, JavaScript (React, Node.js), SQL  
 - **Tools & Tech**: Git, Docker, Linux, Azure, Tableau, MySQL  
 - **Fields of Interest**: Cybersecurity, Machine Learning, Data Analytics, Full-stack Web Development  
 
