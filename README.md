@@ -43,7 +43,7 @@ Passionate about creating practical solutions that blend technology, security, a
 
 ## 🤝 Let’s Connect  
 - 📧 Email: chk10714@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https:www.linkedin.com/in/daniel-Choi-68744b304)  
+- 💼 LinkedIn: https:www.linkedin.com/in/daniel-Choi-68744b304 
 - 🧠 GitHub: [github.com/danielchoi](https://github.com/DanielChoi0711)
 
 ---
