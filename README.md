@@ -43,15 +43,6 @@ Passionate about creating practical solutions that blend technology, security, a
 
 ---
 
-## 📺 Featured YouTube Content  
-- 🎥 *How to Get Into Cybersecurity from Zero*  
-- 🎥 *Day in the Life of a Cybersecurity Analyst*  
-- 🎥 *Create a Keylogger in C# (For Education)*  
-- 🎥 *WGU Review: Is It Legit?*
-
-🧠 Visit my [YouTube Channel](https://youtube.com/yourchannel) for more videos.
-
----
 
 ## 🤝 Let’s Connect  
 - 📧 Email: chk10714@gmail.com 
