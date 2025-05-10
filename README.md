@@ -8,7 +8,7 @@ Passionate about creating practical solutions that blend technology, security, a
 ## 🧠 Core Skills  
 - **Languages**: Python, JavaScript (React, Node.js), SQL  
 - **Tools & Tech**: Git, Docker, Linux, Azure, Tableau, MySQL  
-- **Fields of Interest**: Cybersecurity, Machine Learning, Data Analytics, Full-stack Web Development  
+- **Fields of Interest**: Data Analytics, Data Visualisation, Machine Learning, Cybersecurity, Full-stack Web Development  
 
 ---
 
@@ -18,9 +18,6 @@ Passionate about creating practical solutions that blend technology, security, a
 - **Keylogger in C#**  
   Educational project demonstrating how keyloggers work (for awareness and ethical research)  
   🔗 *[Private repo – available on request for academic/ethical review]*
-
-- **Ransomware Simulation**  
-  Simulates ransomware behavior in a safe, isolated environment for learning purposes
 
 ---
 
