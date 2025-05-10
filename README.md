@@ -27,7 +27,7 @@ Passionate about creating practical solutions that blend technology, security, a
 ### 📊 Data Analytics & Machine Learning
 - **Spam Email Classifier**  
   Trained LSTM model to detect spam emails (with preprocessing and performance evaluation)  
-  🔗 [GitHub Repo](https://github.com/danielchoi/spam-lstm-classifier)
+  🔗 [GitHub Repo]([https://github.com/danielchoi/spam-lstm-classifier](https://github.com/DanielChoi0711/Spam-Filtering-Methods))
 
 - **Package Delivery Route Optimizer**  
   Visual tool using Dijkstra’s algorithm to find optimal routes for delivery services
