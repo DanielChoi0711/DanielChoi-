@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Daniel Choi  
-**Programmer | Cybersecurity Enthusiast | Data Analyst | YouTuber**
+**Programmer | Data Analyst | YouTuber**
 
 Passionate about creating practical solutions that blend technology, security, and data. I believe in building things that are useful, ethical, and sustainable.
 
